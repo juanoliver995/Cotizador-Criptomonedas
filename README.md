@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/627500c7-88c4-4382-b861-d1e4f6ce10fd/deploy-status)](https://app.netlify.com/sites/stupendous-sherbet-67347b/deploys)
+
 # Cotizador de Cryptomonedas
 
 App para cotizar criptomonedas en el instante, puedes escoger entre 4 tipos de monedas de curso legal (euro, dolar, libra, peso argentino) y cotizar la criptomoneda que desees.
